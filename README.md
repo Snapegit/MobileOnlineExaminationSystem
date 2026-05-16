@@ -2,7 +2,7 @@
 
 ## 🌟 项目简介
 
-这是一个基于 **Java + SpringBoot + uni-app + Vue + MySQL** 构建的完整考试报名系统，功能持续优化中...
+这是一个基于 **Java + SpringBoot + uni-app + Vue + MySQL** 构建的完整在线考试系统，功能持续优化中...
 
 uni-app：是一个使用 Vue.js 开发所有前端应用的框架，开发者编写一套代码，可发布到iOS、Android、鸿蒙Next、Web（响应式）、以及各种小程序（微信/支付宝/百度/抖音/飞书/QQ/快手/钉钉/淘宝/京东/小红书）、快应用、鸿蒙元服务等多个平台。
 
